@@ -1,9 +1,11 @@
+[![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=flat&logo=lua)](https://lua.org)
+[![Neovim](https://img.shields.io/badge/Neovim-0.9%2B-green.svg?style=flat&logo=neovim)](https://neovim.io)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## 🔦 searchlight.nvim
 
 #### Fast workspace search UI for Neovim powered by ripgrep.
 #### Lightweight, keyboard-driven, no Telescope, no bloat.
-
-![Searchlight demo](https://i.ibb.co/ZpCWmrhc/ezgif-218cf7befff83aee.gif)
 
 ---
 
