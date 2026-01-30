@@ -3,6 +3,8 @@
 #### Fast workspace search UI for Neovim powered by ripgrep.
 #### Lightweight, keyboard-driven, no Telescope, no bloat.
 
+![Searchlight demo](https://i.ibb.co/ZpCWmrhc/ezgif-218cf7befff83aee.gif)
+
 ---
 
 ### ✨ Features
