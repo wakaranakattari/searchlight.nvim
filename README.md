@@ -39,12 +39,12 @@
 
 ### 🚀 Usage
 ```vim
-:Searchlight your_query
+:Search your_query
 ```
 
 #### Example:
 ```vim
-- :Searchlight function
+- :Search function
 ```
 
 #### Search runs across the current working directory.
